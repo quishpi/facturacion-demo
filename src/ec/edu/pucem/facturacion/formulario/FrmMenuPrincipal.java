@@ -21,6 +21,9 @@ public class FrmMenuPrincipal extends JFrame {
 	private JDesktopPane desktopPane;
 
 	public FrmMenuPrincipal() {
+		
+		// aquí va un comentario
+		
 		setTitle("SISTEMA DE FACTURACION ELECTRONICA");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 719, 443);
